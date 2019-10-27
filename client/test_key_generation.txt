@@ -1,501 +1,501 @@
-Typex key generation time 0.029873 seconds 
-Typex key generation time 0.050521 seconds 
-Typex key generation time 0.027376 seconds 
-Typex key generation time 0.053858 seconds 
-Typex key generation time 0.051639 seconds 
-Typex key generation time 0.02886 seconds 
-Typex key generation time 0.031394 seconds 
-Typex key generation time 0.044417 seconds 
-Typex key generation time 0.035371 seconds 
-Typex key generation time 0.038891 seconds 
-Typex key generation time 0.039873 seconds 
-Typex key generation time 0.032022 seconds 
-Typex key generation time 0.024511 seconds 
-Typex key generation time 0.033005 seconds 
-Typex key generation time 0.038141 seconds 
-Typex key generation time 0.036162 seconds 
-Typex key generation time 0.064016 seconds 
-Typex key generation time 0.036866 seconds 
-Typex key generation time 0.029113 seconds 
-Typex key generation time 0.051565 seconds 
-Typex key generation time 0.066217 seconds 
-Typex key generation time 0.023619 seconds 
-Typex key generation time 0.034223 seconds 
-Typex key generation time 0.030908 seconds 
-Typex key generation time 0.02953 seconds 
-Typex key generation time 0.044551 seconds 
-Typex key generation time 0.026908 seconds 
-Typex key generation time 0.031567 seconds 
-Typex key generation time 0.028585 seconds 
-Typex key generation time 0.027981 seconds 
-Typex key generation time 0.04169 seconds 
-Typex key generation time 0.038 seconds 
-Typex key generation time 0.0399 seconds 
-Typex key generation time 0.053914 seconds 
-Typex key generation time 0.049011 seconds 
-Typex key generation time 0.030116 seconds 
-Typex key generation time 0.029458 seconds 
-Typex key generation time 0.032363 seconds 
-Typex key generation time 0.036237 seconds 
-Typex key generation time 0.021638 seconds 
-Typex key generation time 0.030659 seconds 
-Typex key generation time 0.031584 seconds 
-Typex key generation time 0.046801 seconds 
-Typex key generation time 0.030107 seconds 
-Typex key generation time 0.021787 seconds 
-Typex key generation time 0.071219 seconds 
-Typex key generation time 0.019449 seconds 
-Typex key generation time 0.048798 seconds 
-Typex key generation time 0.043047 seconds 
-Typex key generation time 0.058196 seconds 
-Typex key generation time 0.024704 seconds 
-Typex key generation time 0.023494 seconds 
-Typex key generation time 0.039863 seconds 
-Typex key generation time 0.023682 seconds 
-Typex key generation time 0.031574 seconds 
-Typex key generation time 0.050378 seconds 
-Typex key generation time 0.028974 seconds 
-Typex key generation time 0.036918 seconds 
-Typex key generation time 0.029095 seconds 
-Typex key generation time 0.060325 seconds 
-Typex key generation time 0.028209 seconds 
-Typex key generation time 0.053748 seconds 
-Typex key generation time 0.065338 seconds 
-Typex key generation time 0.032393 seconds 
-Typex key generation time 0.02726 seconds 
-Typex key generation time 0.043822 seconds 
-Typex key generation time 0.025869 seconds 
-Typex key generation time 0.045887 seconds 
-Typex key generation time 0.035536 seconds 
-Typex key generation time 0.035793 seconds 
-Typex key generation time 0.032793 seconds 
-Typex key generation time 0.03675 seconds 
-Typex key generation time 0.049478 seconds 
-Typex key generation time 0.040615 seconds 
-Typex key generation time 0.022984 seconds 
-Typex key generation time 0.054746 seconds 
-Typex key generation time 0.044464 seconds 
-Typex key generation time 0.059903 seconds 
-Typex key generation time 0.046649 seconds 
-Typex key generation time 0.026883 seconds 
-Typex key generation time 0.047702 seconds 
-Typex key generation time 0.029281 seconds 
-Typex key generation time 0.022661 seconds 
-Typex key generation time 0.028997 seconds 
-Typex key generation time 0.045043 seconds 
-Typex key generation time 0.025815 seconds 
-Typex key generation time 0.034317 seconds 
-Typex key generation time 0.037823 seconds 
-Typex key generation time 0.032334 seconds 
-Typex key generation time 0.032924 seconds 
-Typex key generation time 0.038517 seconds 
-Typex key generation time 0.029081 seconds 
-Typex key generation time 0.039133 seconds 
-Typex key generation time 0.073522 seconds 
-Typex key generation time 0.062544 seconds 
-Typex key generation time 0.043732 seconds 
-Typex key generation time 0.036576 seconds 
-Typex key generation time 0.073119 seconds 
-Typex key generation time 0.058264 seconds 
-Typex key generation time 0.04889 seconds 
-Typex key generation time 0.039956 seconds 
-Typex key generation time 0.036135 seconds 
-Typex key generation time 0.058845 seconds 
-Typex key generation time 0.06134 seconds 
-Typex key generation time 0.074066 seconds 
-Typex key generation time 0.05246 seconds 
-Typex key generation time 0.044959 seconds 
-Typex key generation time 0.032109 seconds 
-Typex key generation time 0.046478 seconds 
-Typex key generation time 0.057482 seconds 
-Typex key generation time 0.045147 seconds 
-Typex key generation time 0.05943 seconds 
-Typex key generation time 0.046655 seconds 
-Typex key generation time 0.043299 seconds 
-Typex key generation time 0.049974 seconds 
-Typex key generation time 0.040867 seconds 
-Typex key generation time 0.064214 seconds 
-Typex key generation time 0.032864 seconds 
-Typex key generation time 0.037477 seconds 
-Typex key generation time 0.024841 seconds 
-Typex key generation time 0.033498 seconds 
-Typex key generation time 0.05066 seconds 
-Typex key generation time 0.03401 seconds 
-Typex key generation time 0.028588 seconds 
-Typex key generation time 0.019827 seconds 
-Typex key generation time 0.033909 seconds 
-Typex key generation time 0.030108 seconds 
-Typex key generation time 0.019495 seconds 
-Typex key generation time 0.031507 seconds 
-Typex key generation time 0.024026 seconds 
-Typex key generation time 0.029405 seconds 
-Typex key generation time 0.019375 seconds 
-Typex key generation time 0.020219 seconds 
-Typex key generation time 0.026727 seconds 
-Typex key generation time 0.045773 seconds 
-Typex key generation time 0.024559 seconds 
-Typex key generation time 0.035538 seconds 
-Typex key generation time 0.053778 seconds 
-Typex key generation time 0.035817 seconds 
-Typex key generation time 0.02539 seconds 
-Typex key generation time 0.026007 seconds 
-Typex key generation time 0.024003 seconds 
-Typex key generation time 0.021353 seconds 
-Typex key generation time 0.021371 seconds 
-Typex key generation time 0.037944 seconds 
-Typex key generation time 0.043801 seconds 
-Typex key generation time 0.042454 seconds 
-Typex key generation time 0.026694 seconds 
-Typex key generation time 0.049762 seconds 
-Typex key generation time 0.031869 seconds 
-Typex key generation time 0.038661 seconds 
-Typex key generation time 0.034277 seconds 
-Typex key generation time 0.051275 seconds 
-Typex key generation time 0.059671 seconds 
-Typex key generation time 0.067295 seconds 
-Typex key generation time 0.042461 seconds 
-Typex key generation time 0.065361 seconds 
-Typex key generation time 0.038711 seconds 
-Typex key generation time 0.033068 seconds 
-Typex key generation time 0.039269 seconds 
-Typex key generation time 0.044676 seconds 
-Typex key generation time 0.048839 seconds 
-Typex key generation time 0.063913 seconds 
-Typex key generation time 0.055046 seconds 
-Typex key generation time 0.042151 seconds 
-Typex key generation time 0.078172 seconds 
-Typex key generation time 0.072324 seconds 
-Typex key generation time 0.066201 seconds 
-Typex key generation time 0.034922 seconds 
-Typex key generation time 0.038007 seconds 
-Typex key generation time 0.031287 seconds 
-Typex key generation time 0.022947 seconds 
-Typex key generation time 0.037151 seconds 
-Typex key generation time 0.033306 seconds 
-Typex key generation time 0.027501 seconds 
-Typex key generation time 0.029511 seconds 
-Typex key generation time 0.031135 seconds 
-Typex key generation time 0.033754 seconds 
-Typex key generation time 0.025836 seconds 
-Typex key generation time 0.038495 seconds 
-Typex key generation time 0.030527 seconds 
-Typex key generation time 0.02938 seconds 
-Typex key generation time 0.019436 seconds 
-Typex key generation time 0.021427 seconds 
-Typex key generation time 0.051882 seconds 
-Typex key generation time 0.029527 seconds 
-Typex key generation time 0.021191 seconds 
-Typex key generation time 0.024201 seconds 
-Typex key generation time 0.020705 seconds 
-Typex key generation time 0.019321 seconds 
-Typex key generation time 0.022627 seconds 
-Typex key generation time 0.02538 seconds 
-Typex key generation time 0.043042 seconds 
-Typex key generation time 0.024015 seconds 
-Typex key generation time 0.028626 seconds 
-Typex key generation time 0.030856 seconds 
-Typex key generation time 0.024736 seconds 
-Typex key generation time 0.020867 seconds 
-Typex key generation time 0.03412 seconds 
-Typex key generation time 0.020867 seconds 
-Typex key generation time 0.040929 seconds 
-Typex key generation time 0.02186 seconds 
-Typex key generation time 0.036187 seconds 
-Typex key generation time 0.025003 seconds 
-Typex key generation time 0.019263 seconds 
-Typex key generation time 0.027241 seconds 
-Typex key generation time 0.019249 seconds 
-Typex key generation time 0.034858 seconds 
-Typex key generation time 0.034836 seconds 
-Typex key generation time 0.034989 seconds 
-Typex key generation time 0.01956 seconds 
-Typex key generation time 0.033508 seconds 
-Typex key generation time 0.02407 seconds 
-Typex key generation time 0.029576 seconds 
-Typex key generation time 0.029966 seconds 
-Typex key generation time 0.043818 seconds 
-Typex key generation time 0.020743 seconds 
-Typex key generation time 0.024455 seconds 
-Typex key generation time 0.02917 seconds 
-Typex key generation time 0.020792 seconds 
-Typex key generation time 0.021449 seconds 
-Typex key generation time 0.024006 seconds 
-Typex key generation time 0.028261 seconds 
-Typex key generation time 0.038801 seconds 
-Typex key generation time 0.021563 seconds 
-Typex key generation time 0.024185 seconds 
-Typex key generation time 0.04247 seconds 
-Typex key generation time 0.04123 seconds 
-Typex key generation time 0.025105 seconds 
-Typex key generation time 0.022642 seconds 
-Typex key generation time 0.031631 seconds 
-Typex key generation time 0.035406 seconds 
-Typex key generation time 0.052585 seconds 
-Typex key generation time 0.020715 seconds 
-Typex key generation time 0.030749 seconds 
-Typex key generation time 0.03061 seconds 
-Typex key generation time 0.028918 seconds 
-Typex key generation time 0.042283 seconds 
-Typex key generation time 0.026551 seconds 
-Typex key generation time 0.029904 seconds 
-Typex key generation time 0.02228 seconds 
-Typex key generation time 0.02932 seconds 
-Typex key generation time 0.03544 seconds 
-Typex key generation time 0.042976 seconds 
-Typex key generation time 0.026124 seconds 
-Typex key generation time 0.019468 seconds 
-Typex key generation time 0.024857 seconds 
-Typex key generation time 0.029508 seconds 
-Typex key generation time 0.030668 seconds 
-Typex key generation time 0.03489 seconds 
-Typex key generation time 0.036533 seconds 
-Typex key generation time 0.023339 seconds 
-Typex key generation time 0.025514 seconds 
-Typex key generation time 0.051852 seconds 
-Typex key generation time 0.024676 seconds 
-Typex key generation time 0.019371 seconds 
-Typex key generation time 0.020225 seconds 
-Typex key generation time 0.030145 seconds 
-Typex key generation time 0.030059 seconds 
-Typex key generation time 0.02393 seconds 
-Typex key generation time 0.044951 seconds 
-Typex key generation time 0.029448 seconds 
-Typex key generation time 0.028465 seconds 
-Typex key generation time 0.024927 seconds 
-Typex key generation time 0.024788 seconds 
-Typex key generation time 0.033429 seconds 
-Typex key generation time 0.025503 seconds 
-Typex key generation time 0.021418 seconds 
-Typex key generation time 0.042791 seconds 
-Typex key generation time 0.054309 seconds 
-Typex key generation time 0.034487 seconds 
-Typex key generation time 0.04107 seconds 
-Typex key generation time 0.024558 seconds 
-Typex key generation time 0.02074 seconds 
-Typex key generation time 0.020121 seconds 
-Typex key generation time 0.02001 seconds 
-Typex key generation time 0.019319 seconds 
-Typex key generation time 0.019434 seconds 
-Typex key generation time 0.020183 seconds 
-Typex key generation time 0.02399 seconds 
-Typex key generation time 0.021429 seconds 
-Typex key generation time 0.024837 seconds 
-Typex key generation time 0.024717 seconds 
-Typex key generation time 0.028579 seconds 
-Typex key generation time 0.035535 seconds 
-Typex key generation time 0.02485 seconds 
-Typex key generation time 0.023846 seconds 
-Typex key generation time 0.037831 seconds 
-Typex key generation time 0.042652 seconds 
-Typex key generation time 0.020094 seconds 
-Typex key generation time 0.037336 seconds 
-Typex key generation time 0.040903 seconds 
-Typex key generation time 0.026146 seconds 
-Typex key generation time 0.026784 seconds 
-Typex key generation time 0.024842 seconds 
-Typex key generation time 0.033129 seconds 
-Typex key generation time 0.044921 seconds 
-Typex key generation time 0.030583 seconds 
-Typex key generation time 0.024857 seconds 
-Typex key generation time 0.044562 seconds 
-Typex key generation time 0.053216 seconds 
-Typex key generation time 0.025079 seconds 
-Typex key generation time 0.026086 seconds 
-Typex key generation time 0.028691 seconds 
-Typex key generation time 0.027855 seconds 
-Typex key generation time 0.0292 seconds 
-Typex key generation time 0.019953 seconds 
-Typex key generation time 0.032546 seconds 
-Typex key generation time 0.030607 seconds 
-Typex key generation time 0.036883 seconds 
-Typex key generation time 0.027824 seconds 
-Typex key generation time 0.029777 seconds 
-Typex key generation time 0.039799 seconds 
-Typex key generation time 0.023571 seconds 
-Typex key generation time 0.03053 seconds 
-Typex key generation time 0.029285 seconds 
-Typex key generation time 0.040836 seconds 
-Typex key generation time 0.028514 seconds 
-Typex key generation time 0.024339 seconds 
-Typex key generation time 0.036452 seconds 
-Typex key generation time 0.024727 seconds 
-Typex key generation time 0.042422 seconds 
-Typex key generation time 0.028035 seconds 
-Typex key generation time 0.020701 seconds 
-Typex key generation time 0.024066 seconds 
-Typex key generation time 0.036945 seconds 
-Typex key generation time 0.028817 seconds 
-Typex key generation time 0.02051 seconds 
-Typex key generation time 0.02847 seconds 
-Typex key generation time 0.031334 seconds 
-Typex key generation time 0.034172 seconds 
-Typex key generation time 0.020389 seconds 
-Typex key generation time 0.025316 seconds 
-Typex key generation time 0.027613 seconds 
-Typex key generation time 0.020092 seconds 
-Typex key generation time 0.024656 seconds 
-Typex key generation time 0.03167 seconds 
-Typex key generation time 0.034082 seconds 
-Typex key generation time 0.030039 seconds 
-Typex key generation time 0.019329 seconds 
-Typex key generation time 0.019289 seconds 
-Typex key generation time 0.033408 seconds 
-Typex key generation time 0.035504 seconds 
-Typex key generation time 0.025038 seconds 
-Typex key generation time 0.019315 seconds 
-Typex key generation time 0.043899 seconds 
-Typex key generation time 0.038572 seconds 
-Typex key generation time 0.031274 seconds 
-Typex key generation time 0.028861 seconds 
-Typex key generation time 0.020784 seconds 
-Typex key generation time 0.03346 seconds 
-Typex key generation time 0.054699 seconds 
-Typex key generation time 0.024121 seconds 
-Typex key generation time 0.037925 seconds 
-Typex key generation time 0.027077 seconds 
-Typex key generation time 0.028651 seconds 
-Typex key generation time 0.031478 seconds 
-Typex key generation time 0.022203 seconds 
-Typex key generation time 0.030134 seconds 
-Typex key generation time 0.019458 seconds 
-Typex key generation time 0.026213 seconds 
-Typex key generation time 0.04445 seconds 
-Typex key generation time 0.025122 seconds 
-Typex key generation time 0.042857 seconds 
-Typex key generation time 0.02946 seconds 
-Typex key generation time 0.03953 seconds 
-Typex key generation time 0.024914 seconds 
-Typex key generation time 0.024799 seconds 
-Typex key generation time 0.020822 seconds 
-Typex key generation time 0.026553 seconds 
-Typex key generation time 0.053764 seconds 
-Typex key generation time 0.035508 seconds 
-Typex key generation time 0.05801 seconds 
-Typex key generation time 0.020677 seconds 
-Typex key generation time 0.024435 seconds 
-Typex key generation time 0.020598 seconds 
-Typex key generation time 0.033872 seconds 
-Typex key generation time 0.025888 seconds 
-Typex key generation time 0.024806 seconds 
-Typex key generation time 0.024663 seconds 
-Typex key generation time 0.030539 seconds 
-Typex key generation time 0.040724 seconds 
-Typex key generation time 0.039244 seconds 
-Typex key generation time 0.035901 seconds 
-Typex key generation time 0.020628 seconds 
-Typex key generation time 0.031241 seconds 
-Typex key generation time 0.024676 seconds 
-Typex key generation time 0.020014 seconds 
-Typex key generation time 0.049952 seconds 
-Typex key generation time 0.027554 seconds 
-Typex key generation time 0.022711 seconds 
-Typex key generation time 0.033523 seconds 
-Typex key generation time 0.030856 seconds 
-Typex key generation time 0.026107 seconds 
-Typex key generation time 0.035348 seconds 
-Typex key generation time 0.047636 seconds 
-Typex key generation time 0.030078 seconds 
-Typex key generation time 0.034131 seconds 
-Typex key generation time 0.02532 seconds 
-Typex key generation time 0.037681 seconds 
-Typex key generation time 0.040193 seconds 
-Typex key generation time 0.031065 seconds 
-Typex key generation time 0.039306 seconds 
-Typex key generation time 0.024675 seconds 
-Typex key generation time 0.020851 seconds 
-Typex key generation time 0.027235 seconds 
-Typex key generation time 0.027988 seconds 
-Typex key generation time 0.032161 seconds 
-Typex key generation time 0.035934 seconds 
-Typex key generation time 0.024073 seconds 
-Typex key generation time 0.039543 seconds 
-Typex key generation time 0.020222 seconds 
-Typex key generation time 0.025276 seconds 
-Typex key generation time 0.028679 seconds 
-Typex key generation time 0.019437 seconds 
-Typex key generation time 0.021445 seconds 
-Typex key generation time 0.030192 seconds 
-Typex key generation time 0.020877 seconds 
-Typex key generation time 0.023858 seconds 
-Typex key generation time 0.037753 seconds 
-Typex key generation time 0.029818 seconds 
-Typex key generation time 0.027388 seconds 
-Typex key generation time 0.025434 seconds 
-Typex key generation time 0.019421 seconds 
-Typex key generation time 0.030116 seconds 
-Typex key generation time 0.02416 seconds 
-Typex key generation time 0.033708 seconds 
-Typex key generation time 0.038599 seconds 
-Typex key generation time 0.028701 seconds 
-Typex key generation time 0.02609 seconds 
-Typex key generation time 0.050221 seconds 
-Typex key generation time 0.033738 seconds 
-Typex key generation time 0.031106 seconds 
-Typex key generation time 0.019997 seconds 
-Typex key generation time 0.026695 seconds 
-Typex key generation time 0.020505 seconds 
-Typex key generation time 0.042847 seconds 
-Typex key generation time 0.04122 seconds 
-Typex key generation time 0.038113 seconds 
-Typex key generation time 0.034677 seconds 
-Typex key generation time 0.026121 seconds 
-Typex key generation time 0.028627 seconds 
-Typex key generation time 0.038635 seconds 
-Typex key generation time 0.039035 seconds 
-Typex key generation time 0.021538 seconds 
-Typex key generation time 0.043913 seconds 
-Typex key generation time 0.020104 seconds 
-Typex key generation time 0.024682 seconds 
-Typex key generation time 0.03195 seconds 
-Typex key generation time 0.028637 seconds 
-Typex key generation time 0.031007 seconds 
-Typex key generation time 0.019277 seconds 
-Typex key generation time 0.04365 seconds 
-Typex key generation time 0.025236 seconds 
-Typex key generation time 0.024419 seconds 
-Typex key generation time 0.019409 seconds 
-Typex key generation time 0.052599 seconds 
-Typex key generation time 0.033952 seconds 
-Typex key generation time 0.042947 seconds 
-Typex key generation time 0.02604 seconds 
-Typex key generation time 0.029954 seconds 
-Typex key generation time 0.044598 seconds 
-Typex key generation time 0.029429 seconds 
-Typex key generation time 0.028641 seconds 
-Typex key generation time 0.058757 seconds 
-Typex key generation time 0.038652 seconds 
-Typex key generation time 0.039702 seconds 
-Typex key generation time 0.047729 seconds 
-Typex key generation time 0.019436 seconds 
-Typex key generation time 0.033439 seconds 
-Typex key generation time 0.040023 seconds 
-Typex key generation time 0.025132 seconds 
-Typex key generation time 0.024782 seconds 
-Typex key generation time 0.029854 seconds 
-Typex key generation time 0.021249 seconds 
-Typex key generation time 0.035897 seconds 
-Typex key generation time 0.029349 seconds 
-Typex key generation time 0.062928 seconds 
-Typex key generation time 0.034862 seconds 
-Typex key generation time 0.037818 seconds 
-Typex key generation time 0.019626 seconds 
-Typex key generation time 0.02879 seconds 
-Typex key generation time 0.021181 seconds 
-Typex key generation time 0.025328 seconds 
-Typex key generation time 0.064757 seconds 
-Typex key generation time 0.019296 seconds 
-Typex key generation time 0.019364 seconds 
-Typex key generation time 0.022259 seconds 
-Typex key generation time 0.065577 seconds 
-Typex key generation time 0.026049 seconds 
-Typex key generation time 0.026218 seconds 
-Typex key generation time 0.01952 seconds 
-Typex key generation time 0.021508 seconds 
-Typex key generation time 0.033789 seconds 
-Typex key generation time 0.023845 seconds 
-Typex key generation time 0.020576 seconds 
-Typex key generation time 0.01945 seconds 
-Typex key generation time 0.029642 seconds 
-Typex key generation time 0.023949 seconds 
-Typex key generation time 0.033358 seconds 
-the average time for key generation is 0.033524874 [ loop number: 500 ]
+Typex key generation time is 0.057657 seconds 
+Typex key generation time is 0.023038 seconds 
+Typex key generation time is 0.031139 seconds 
+Typex key generation time is 0.047739 seconds 
+Typex key generation time is 0.032352 seconds 
+Typex key generation time is 0.038164 seconds 
+Typex key generation time is 0.023746 seconds 
+Typex key generation time is 0.024234 seconds 
+Typex key generation time is 0.04313 seconds 
+Typex key generation time is 0.04876 seconds 
+Typex key generation time is 0.033358 seconds 
+Typex key generation time is 0.032029 seconds 
+Typex key generation time is 0.031422 seconds 
+Typex key generation time is 0.03594 seconds 
+Typex key generation time is 0.042462 seconds 
+Typex key generation time is 0.031659 seconds 
+Typex key generation time is 0.043364 seconds 
+Typex key generation time is 0.029123 seconds 
+Typex key generation time is 0.028531 seconds 
+Typex key generation time is 0.048011 seconds 
+Typex key generation time is 0.025796 seconds 
+Typex key generation time is 0.034447 seconds 
+Typex key generation time is 0.040723 seconds 
+Typex key generation time is 0.058832 seconds 
+Typex key generation time is 0.027042 seconds 
+Typex key generation time is 0.038997 seconds 
+Typex key generation time is 0.033568 seconds 
+Typex key generation time is 0.03174 seconds 
+Typex key generation time is 0.044884 seconds 
+Typex key generation time is 0.027163 seconds 
+Typex key generation time is 0.030902 seconds 
+Typex key generation time is 0.032159 seconds 
+Typex key generation time is 0.0498 seconds 
+Typex key generation time is 0.029477 seconds 
+Typex key generation time is 0.03562 seconds 
+Typex key generation time is 0.034432 seconds 
+Typex key generation time is 0.029487 seconds 
+Typex key generation time is 0.028717 seconds 
+Typex key generation time is 0.030257 seconds 
+Typex key generation time is 0.028058 seconds 
+Typex key generation time is 0.020008 seconds 
+Typex key generation time is 0.0259 seconds 
+Typex key generation time is 0.052398 seconds 
+Typex key generation time is 0.029511 seconds 
+Typex key generation time is 0.024718 seconds 
+Typex key generation time is 0.03054 seconds 
+Typex key generation time is 0.030122 seconds 
+Typex key generation time is 0.024177 seconds 
+Typex key generation time is 0.033847 seconds 
+Typex key generation time is 0.031006 seconds 
+Typex key generation time is 0.043926 seconds 
+Typex key generation time is 0.058003 seconds 
+Typex key generation time is 0.036665 seconds 
+Typex key generation time is 0.049243 seconds 
+Typex key generation time is 0.026157 seconds 
+Typex key generation time is 0.035965 seconds 
+Typex key generation time is 0.053938 seconds 
+Typex key generation time is 0.038119 seconds 
+Typex key generation time is 0.026994 seconds 
+Typex key generation time is 0.024029 seconds 
+Typex key generation time is 0.024121 seconds 
+Typex key generation time is 0.033392 seconds 
+Typex key generation time is 0.026565 seconds 
+Typex key generation time is 0.025667 seconds 
+Typex key generation time is 0.053391 seconds 
+Typex key generation time is 0.025357 seconds 
+Typex key generation time is 0.053638 seconds 
+Typex key generation time is 0.024899 seconds 
+Typex key generation time is 0.04576 seconds 
+Typex key generation time is 0.033734 seconds 
+Typex key generation time is 0.03578 seconds 
+Typex key generation time is 0.046626 seconds 
+Typex key generation time is 0.032017 seconds 
+Typex key generation time is 0.029739 seconds 
+Typex key generation time is 0.024802 seconds 
+Typex key generation time is 0.040676 seconds 
+Typex key generation time is 0.035752 seconds 
+Typex key generation time is 0.046319 seconds 
+Typex key generation time is 0.040136 seconds 
+Typex key generation time is 0.039205 seconds 
+Typex key generation time is 0.024461 seconds 
+Typex key generation time is 0.0244 seconds 
+Typex key generation time is 0.025604 seconds 
+Typex key generation time is 0.039652 seconds 
+Typex key generation time is 0.039969 seconds 
+Typex key generation time is 0.027804 seconds 
+Typex key generation time is 0.027177 seconds 
+Typex key generation time is 0.029633 seconds 
+Typex key generation time is 0.052597 seconds 
+Typex key generation time is 0.029412 seconds 
+Typex key generation time is 0.03149 seconds 
+Typex key generation time is 0.036624 seconds 
+Typex key generation time is 0.031564 seconds 
+Typex key generation time is 0.042765 seconds 
+Typex key generation time is 0.021038 seconds 
+Typex key generation time is 0.042452 seconds 
+Typex key generation time is 0.03901 seconds 
+Typex key generation time is 0.035474 seconds 
+Typex key generation time is 0.063483 seconds 
+Typex key generation time is 0.026899 seconds 
+Typex key generation time is 0.025347 seconds 
+Typex key generation time is 0.042886 seconds 
+Typex key generation time is 0.045678 seconds 
+Typex key generation time is 0.030264 seconds 
+Typex key generation time is 0.029309 seconds 
+Typex key generation time is 0.030492 seconds 
+Typex key generation time is 0.030647 seconds 
+Typex key generation time is 0.0247 seconds 
+Typex key generation time is 0.05113 seconds 
+Typex key generation time is 0.033256 seconds 
+Typex key generation time is 0.042622 seconds 
+Typex key generation time is 0.029195 seconds 
+Typex key generation time is 0.038661 seconds 
+Typex key generation time is 0.039213 seconds 
+Typex key generation time is 0.038595 seconds 
+Typex key generation time is 0.043592 seconds 
+Typex key generation time is 0.034533 seconds 
+Typex key generation time is 0.024759 seconds 
+Typex key generation time is 0.030369 seconds 
+Typex key generation time is 0.041276 seconds 
+Typex key generation time is 0.073387 seconds 
+Typex key generation time is 0.02028 seconds 
+Typex key generation time is 0.041886 seconds 
+Typex key generation time is 0.026565 seconds 
+Typex key generation time is 0.024809 seconds 
+Typex key generation time is 0.054684 seconds 
+Typex key generation time is 0.043827 seconds 
+Typex key generation time is 0.019753 seconds 
+Typex key generation time is 0.045888 seconds 
+Typex key generation time is 0.031644 seconds 
+Typex key generation time is 0.041789 seconds 
+Typex key generation time is 0.030845 seconds 
+Typex key generation time is 0.031989 seconds 
+Typex key generation time is 0.046244 seconds 
+Typex key generation time is 0.031266 seconds 
+Typex key generation time is 0.040074 seconds 
+Typex key generation time is 0.051943 seconds 
+Typex key generation time is 0.025739 seconds 
+Typex key generation time is 0.035558 seconds 
+Typex key generation time is 0.052984 seconds 
+Typex key generation time is 0.056852 seconds 
+Typex key generation time is 0.03115 seconds 
+Typex key generation time is 0.027094 seconds 
+Typex key generation time is 0.053114 seconds 
+Typex key generation time is 0.027526 seconds 
+Typex key generation time is 0.046348 seconds 
+Typex key generation time is 0.023775 seconds 
+Typex key generation time is 0.026604 seconds 
+Typex key generation time is 0.048841 seconds 
+Typex key generation time is 0.036547 seconds 
+Typex key generation time is 0.048557 seconds 
+Typex key generation time is 0.039869 seconds 
+Typex key generation time is 0.029582 seconds 
+Typex key generation time is 0.02602 seconds 
+Typex key generation time is 0.030137 seconds 
+Typex key generation time is 0.024387 seconds 
+Typex key generation time is 0.035762 seconds 
+Typex key generation time is 0.03318 seconds 
+Typex key generation time is 0.047469 seconds 
+Typex key generation time is 0.036035 seconds 
+Typex key generation time is 0.04995 seconds 
+Typex key generation time is 0.023729 seconds 
+Typex key generation time is 0.058187 seconds 
+Typex key generation time is 0.04835 seconds 
+Typex key generation time is 0.025445 seconds 
+Typex key generation time is 0.028304 seconds 
+Typex key generation time is 0.030418 seconds 
+Typex key generation time is 0.023011 seconds 
+Typex key generation time is 0.024486 seconds 
+Typex key generation time is 0.029062 seconds 
+Typex key generation time is 0.040083 seconds 
+Typex key generation time is 0.029788 seconds 
+Typex key generation time is 0.025201 seconds 
+Typex key generation time is 0.047805 seconds 
+Typex key generation time is 0.033763 seconds 
+Typex key generation time is 0.048901 seconds 
+Typex key generation time is 0.034868 seconds 
+Typex key generation time is 0.048346 seconds 
+Typex key generation time is 0.03528 seconds 
+Typex key generation time is 0.042923 seconds 
+Typex key generation time is 0.045078 seconds 
+Typex key generation time is 0.043528 seconds 
+Typex key generation time is 0.04096 seconds 
+Typex key generation time is 0.035552 seconds 
+Typex key generation time is 0.035698 seconds 
+Typex key generation time is 0.027756 seconds 
+Typex key generation time is 0.050792 seconds 
+Typex key generation time is 0.049242 seconds 
+Typex key generation time is 0.036071 seconds 
+Typex key generation time is 0.072949 seconds 
+Typex key generation time is 0.043999 seconds 
+Typex key generation time is 0.038732 seconds 
+Typex key generation time is 0.030973 seconds 
+Typex key generation time is 0.055666 seconds 
+Typex key generation time is 0.024681 seconds 
+Typex key generation time is 0.029587 seconds 
+Typex key generation time is 0.023956 seconds 
+Typex key generation time is 0.028423 seconds 
+Typex key generation time is 0.036063 seconds 
+Typex key generation time is 0.029313 seconds 
+Typex key generation time is 0.030822 seconds 
+Typex key generation time is 0.031123 seconds 
+Typex key generation time is 0.047956 seconds 
+Typex key generation time is 0.027791 seconds 
+Typex key generation time is 0.0514 seconds 
+Typex key generation time is 0.032971 seconds 
+Typex key generation time is 0.036761 seconds 
+Typex key generation time is 0.026611 seconds 
+Typex key generation time is 0.03391 seconds 
+Typex key generation time is 0.02522 seconds 
+Typex key generation time is 0.039236 seconds 
+Typex key generation time is 0.045566 seconds 
+Typex key generation time is 0.062494 seconds 
+Typex key generation time is 0.029608 seconds 
+Typex key generation time is 0.025393 seconds 
+Typex key generation time is 0.031929 seconds 
+Typex key generation time is 0.03464 seconds 
+Typex key generation time is 0.035461 seconds 
+Typex key generation time is 0.040484 seconds 
+Typex key generation time is 0.044538 seconds 
+Typex key generation time is 0.024443 seconds 
+Typex key generation time is 0.034448 seconds 
+Typex key generation time is 0.029779 seconds 
+Typex key generation time is 0.024143 seconds 
+Typex key generation time is 0.04019 seconds 
+Typex key generation time is 0.052482 seconds 
+Typex key generation time is 0.058662 seconds 
+Typex key generation time is 0.02471 seconds 
+Typex key generation time is 0.058019 seconds 
+Typex key generation time is 0.052891 seconds 
+Typex key generation time is 0.043677 seconds 
+Typex key generation time is 0.033994 seconds 
+Typex key generation time is 0.02691 seconds 
+Typex key generation time is 0.022492 seconds 
+Typex key generation time is 0.032995 seconds 
+Typex key generation time is 0.039007 seconds 
+Typex key generation time is 0.03955 seconds 
+Typex key generation time is 0.033957 seconds 
+Typex key generation time is 0.041549 seconds 
+Typex key generation time is 0.023457 seconds 
+Typex key generation time is 0.050075 seconds 
+Typex key generation time is 0.038662 seconds 
+Typex key generation time is 0.023773 seconds 
+Typex key generation time is 0.034838 seconds 
+Typex key generation time is 0.039753 seconds 
+Typex key generation time is 0.024105 seconds 
+Typex key generation time is 0.028396 seconds 
+Typex key generation time is 0.029053 seconds 
+Typex key generation time is 0.023968 seconds 
+Typex key generation time is 0.049694 seconds 
+Typex key generation time is 0.038256 seconds 
+Typex key generation time is 0.034414 seconds 
+Typex key generation time is 0.036228 seconds 
+Typex key generation time is 0.043819 seconds 
+Typex key generation time is 0.032917 seconds 
+Typex key generation time is 0.035435 seconds 
+Typex key generation time is 0.059603 seconds 
+Typex key generation time is 0.045311 seconds 
+Typex key generation time is 0.023624 seconds 
+Typex key generation time is 0.039515 seconds 
+Typex key generation time is 0.039759 seconds 
+Typex key generation time is 0.026626 seconds 
+Typex key generation time is 0.049953 seconds 
+Typex key generation time is 0.023434 seconds 
+Typex key generation time is 0.028321 seconds 
+Typex key generation time is 0.025118 seconds 
+Typex key generation time is 0.037412 seconds 
+Typex key generation time is 0.047551 seconds 
+Typex key generation time is 0.038979 seconds 
+Typex key generation time is 0.050509 seconds 
+Typex key generation time is 0.041934 seconds 
+Typex key generation time is 0.019485 seconds 
+Typex key generation time is 0.036211 seconds 
+Typex key generation time is 0.030359 seconds 
+Typex key generation time is 0.024644 seconds 
+Typex key generation time is 0.034637 seconds 
+Typex key generation time is 0.036551 seconds 
+Typex key generation time is 0.048463 seconds 
+Typex key generation time is 0.04736 seconds 
+Typex key generation time is 0.027593 seconds 
+Typex key generation time is 0.030517 seconds 
+Typex key generation time is 0.035186 seconds 
+Typex key generation time is 0.045465 seconds 
+Typex key generation time is 0.028575 seconds 
+Typex key generation time is 0.036604 seconds 
+Typex key generation time is 0.03602 seconds 
+Typex key generation time is 0.053436 seconds 
+Typex key generation time is 0.04072 seconds 
+Typex key generation time is 0.053531 seconds 
+Typex key generation time is 0.03071 seconds 
+Typex key generation time is 0.054422 seconds 
+Typex key generation time is 0.024895 seconds 
+Typex key generation time is 0.030281 seconds 
+Typex key generation time is 0.0354 seconds 
+Typex key generation time is 0.035602 seconds 
+Typex key generation time is 0.040797 seconds 
+Typex key generation time is 0.053685 seconds 
+Typex key generation time is 0.02992 seconds 
+Typex key generation time is 0.051373 seconds 
+Typex key generation time is 0.045039 seconds 
+Typex key generation time is 0.040296 seconds 
+Typex key generation time is 0.024809 seconds 
+Typex key generation time is 0.026093 seconds 
+Typex key generation time is 0.023368 seconds 
+Typex key generation time is 0.049251 seconds 
+Typex key generation time is 0.052452 seconds 
+Typex key generation time is 0.042099 seconds 
+Typex key generation time is 0.035931 seconds 
+Typex key generation time is 0.032179 seconds 
+Typex key generation time is 0.026647 seconds 
+Typex key generation time is 0.035036 seconds 
+Typex key generation time is 0.026635 seconds 
+Typex key generation time is 0.03449 seconds 
+Typex key generation time is 0.033901 seconds 
+Typex key generation time is 0.036772 seconds 
+Typex key generation time is 0.035018 seconds 
+Typex key generation time is 0.03107 seconds 
+Typex key generation time is 0.053035 seconds 
+Typex key generation time is 0.035098 seconds 
+Typex key generation time is 0.032226 seconds 
+Typex key generation time is 0.040221 seconds 
+Typex key generation time is 0.035132 seconds 
+Typex key generation time is 0.04463 seconds 
+Typex key generation time is 0.025134 seconds 
+Typex key generation time is 0.035547 seconds 
+Typex key generation time is 0.040932 seconds 
+Typex key generation time is 0.034363 seconds 
+Typex key generation time is 0.045056 seconds 
+Typex key generation time is 0.026823 seconds 
+Typex key generation time is 0.035817 seconds 
+Typex key generation time is 0.034617 seconds 
+Typex key generation time is 0.028574 seconds 
+Typex key generation time is 0.046658 seconds 
+Typex key generation time is 0.043965 seconds 
+Typex key generation time is 0.044494 seconds 
+Typex key generation time is 0.034629 seconds 
+Typex key generation time is 0.035449 seconds 
+Typex key generation time is 0.026191 seconds 
+Typex key generation time is 0.040787 seconds 
+Typex key generation time is 0.030612 seconds 
+Typex key generation time is 0.03765 seconds 
+Typex key generation time is 0.041972 seconds 
+Typex key generation time is 0.024888 seconds 
+Typex key generation time is 0.034805 seconds 
+Typex key generation time is 0.037037 seconds 
+Typex key generation time is 0.030897 seconds 
+Typex key generation time is 0.034754 seconds 
+Typex key generation time is 0.069516 seconds 
+Typex key generation time is 0.037192 seconds 
+Typex key generation time is 0.023762 seconds 
+Typex key generation time is 0.042722 seconds 
+Typex key generation time is 0.044088 seconds 
+Typex key generation time is 0.023248 seconds 
+Typex key generation time is 0.025302 seconds 
+Typex key generation time is 0.030428 seconds 
+Typex key generation time is 0.02845 seconds 
+Typex key generation time is 0.037676 seconds 
+Typex key generation time is 0.045542 seconds 
+Typex key generation time is 0.029775 seconds 
+Typex key generation time is 0.050878 seconds 
+Typex key generation time is 0.033563 seconds 
+Typex key generation time is 0.030219 seconds 
+Typex key generation time is 0.035796 seconds 
+Typex key generation time is 0.03039 seconds 
+Typex key generation time is 0.04025 seconds 
+Typex key generation time is 0.041115 seconds 
+Typex key generation time is 0.03193 seconds 
+Typex key generation time is 0.049965 seconds 
+Typex key generation time is 0.037593 seconds 
+Typex key generation time is 0.027348 seconds 
+Typex key generation time is 0.024243 seconds 
+Typex key generation time is 0.023539 seconds 
+Typex key generation time is 0.024667 seconds 
+Typex key generation time is 0.029867 seconds 
+Typex key generation time is 0.031753 seconds 
+Typex key generation time is 0.037495 seconds 
+Typex key generation time is 0.030523 seconds 
+Typex key generation time is 0.026221 seconds 
+Typex key generation time is 0.028872 seconds 
+Typex key generation time is 0.033447 seconds 
+Typex key generation time is 0.02974 seconds 
+Typex key generation time is 0.027484 seconds 
+Typex key generation time is 0.053873 seconds 
+Typex key generation time is 0.031292 seconds 
+Typex key generation time is 0.045817 seconds 
+Typex key generation time is 0.048564 seconds 
+Typex key generation time is 0.06679 seconds 
+Typex key generation time is 0.020047 seconds 
+Typex key generation time is 0.049547 seconds 
+Typex key generation time is 0.046335 seconds 
+Typex key generation time is 0.032385 seconds 
+Typex key generation time is 0.053193 seconds 
+Typex key generation time is 0.01967 seconds 
+Typex key generation time is 0.029829 seconds 
+Typex key generation time is 0.030978 seconds 
+Typex key generation time is 0.030071 seconds 
+Typex key generation time is 0.042901 seconds 
+Typex key generation time is 0.032783 seconds 
+Typex key generation time is 0.048651 seconds 
+Typex key generation time is 0.022147 seconds 
+Typex key generation time is 0.030462 seconds 
+Typex key generation time is 0.025592 seconds 
+Typex key generation time is 0.02489 seconds 
+Typex key generation time is 0.03014 seconds 
+Typex key generation time is 0.049625 seconds 
+Typex key generation time is 0.047308 seconds 
+Typex key generation time is 0.030802 seconds 
+Typex key generation time is 0.037436 seconds 
+Typex key generation time is 0.053757 seconds 
+Typex key generation time is 0.037107 seconds 
+Typex key generation time is 0.029234 seconds 
+Typex key generation time is 0.03297 seconds 
+Typex key generation time is 0.021047 seconds 
+Typex key generation time is 0.025838 seconds 
+Typex key generation time is 0.039241 seconds 
+Typex key generation time is 0.028317 seconds 
+Typex key generation time is 0.036254 seconds 
+Typex key generation time is 0.03098 seconds 
+Typex key generation time is 0.022276 seconds 
+Typex key generation time is 0.035668 seconds 
+Typex key generation time is 0.035683 seconds 
+Typex key generation time is 0.029541 seconds 
+Typex key generation time is 0.041127 seconds 
+Typex key generation time is 0.032464 seconds 
+Typex key generation time is 0.022939 seconds 
+Typex key generation time is 0.026339 seconds 
+Typex key generation time is 0.026221 seconds 
+Typex key generation time is 0.027922 seconds 
+Typex key generation time is 0.049502 seconds 
+Typex key generation time is 0.038941 seconds 
+Typex key generation time is 0.034383 seconds 
+Typex key generation time is 0.063759 seconds 
+Typex key generation time is 0.023217 seconds 
+Typex key generation time is 0.024361 seconds 
+Typex key generation time is 0.03087 seconds 
+Typex key generation time is 0.023748 seconds 
+Typex key generation time is 0.024655 seconds 
+Typex key generation time is 0.022509 seconds 
+Typex key generation time is 0.029526 seconds 
+Typex key generation time is 0.046914 seconds 
+Typex key generation time is 0.068377 seconds 
+Typex key generation time is 0.05737 seconds 
+Typex key generation time is 0.027334 seconds 
+Typex key generation time is 0.030629 seconds 
+Typex key generation time is 0.044888 seconds 
+Typex key generation time is 0.043697 seconds 
+Typex key generation time is 0.024952 seconds 
+Typex key generation time is 0.036579 seconds 
+Typex key generation time is 0.042014 seconds 
+Typex key generation time is 0.030369 seconds 
+Typex key generation time is 0.043855 seconds 
+Typex key generation time is 0.019997 seconds 
+Typex key generation time is 0.052526 seconds 
+Typex key generation time is 0.03292 seconds 
+Typex key generation time is 0.06349 seconds 
+Typex key generation time is 0.039109 seconds 
+Typex key generation time is 0.022888 seconds 
+Typex key generation time is 0.027585 seconds 
+Typex key generation time is 0.028788 seconds 
+Typex key generation time is 0.025644 seconds 
+Typex key generation time is 0.032047 seconds 
+Typex key generation time is 0.038399 seconds 
+Typex key generation time is 0.032523 seconds 
+Typex key generation time is 0.048635 seconds 
+Typex key generation time is 0.029494 seconds 
+Typex key generation time is 0.030029 seconds 
+Typex key generation time is 0.035343 seconds 
+Typex key generation time is 0.031445 seconds 
+Typex key generation time is 0.031486 seconds 
+Typex key generation time is 0.063731 seconds 
+Typex key generation time is 0.029615 seconds 
+Typex key generation time is 0.047876 seconds 
+Typex key generation time is 0.028552 seconds 
+Typex key generation time is 0.02278 seconds 
+Typex key generation time is 0.027715 seconds 
+Typex key generation time is 0.024788 seconds 
+Typex key generation time is 0.030416 seconds 
+Typex key generation time is 0.040501 seconds 
+Typex key generation time is 0.04046 seconds 
+Typex key generation time is 0.041428 seconds 
+Typex key generation time is 0.048743 seconds 
+Typex key generation time is 0.038815 seconds 
+Typex key generation time is 0.030656 seconds 
+Typex key generation time is 0.031234 seconds 
+Typex key generation time is 0.02467 seconds 
+Typex key generation time is 0.024881 seconds 
+Typex key generation time is 0.046874 seconds 
+Typex key generation time is 0.029647 seconds 
+Typex key generation time is 0.067621 seconds 
+Typex key generation time is 0.025977 seconds 
+Typex key generation time is 0.041648 seconds 
+Typex key generation time is 0.025571 seconds 
+Typex key generation time is 0.034553 seconds 
+Typex key generation time is 0.035115 seconds 
+Typex key generation time is 0.032447 seconds 
+Typex key generation time is 0.023118 seconds 
+Typex key generation time is 0.031816 seconds 
+Typex key generation time is 0.025717 seconds 
+Typex key generation time is 0.048267 seconds 
+Typex key generation time is 0.044836 seconds 
+the average time for key generation is 0.036058193999999995 [ loop number: 500 ]
