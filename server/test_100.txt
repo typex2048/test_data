@@ -1,0 +1,120 @@
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+
+
+running 1 test
+prepare the data [start]
+insert 1 user without calculating the proof
+insert 2 user without calculating the proof
+insert 3 user without calculating the proof
+insert 4 user without calculating the proof
+insert 5 user without calculating the proof
+insert 6 user without calculating the proof
+insert 7 user without calculating the proof
+insert 8 user without calculating the proof
+insert 9 user without calculating the proof
+insert 10 user without calculating the proof
+insert 11 user without calculating the proof
+insert 12 user without calculating the proof
+insert 13 user without calculating the proof
+insert 14 user without calculating the proof
+insert 15 user without calculating the proof
+insert 16 user without calculating the proof
+insert 17 user without calculating the proof
+insert 18 user without calculating the proof
+insert 19 user without calculating the proof
+insert 20 user without calculating the proof
+insert 21 user without calculating the proof
+insert 22 user without calculating the proof
+insert 23 user without calculating the proof
+insert 24 user without calculating the proof
+insert 25 user without calculating the proof
+insert 26 user without calculating the proof
+insert 27 user without calculating the proof
+insert 28 user without calculating the proof
+insert 29 user without calculating the proof
+insert 30 user without calculating the proof
+insert 31 user without calculating the proof
+insert 32 user without calculating the proof
+insert 33 user without calculating the proof
+insert 34 user without calculating the proof
+insert 35 user without calculating the proof
+insert 36 user without calculating the proof
+insert 37 user without calculating the proof
+insert 38 user without calculating the proof
+insert 39 user without calculating the proof
+insert 40 user without calculating the proof
+insert 41 user without calculating the proof
+insert 42 user without calculating the proof
+insert 43 user without calculating the proof
+insert 44 user without calculating the proof
+insert 45 user without calculating the proof
+insert 46 user without calculating the proof
+insert 47 user without calculating the proof
+insert 48 user without calculating the proof
+insert 49 user without calculating the proof
+insert 50 user without calculating the proof
+insert 51 user without calculating the proof
+insert 52 user without calculating the proof
+insert 53 user without calculating the proof
+insert 54 user without calculating the proof
+insert 55 user without calculating the proof
+insert 56 user without calculating the proof
+insert 57 user without calculating the proof
+insert 58 user without calculating the proof
+insert 59 user without calculating the proof
+insert 60 user without calculating the proof
+insert 61 user without calculating the proof
+insert 62 user without calculating the proof
+insert 63 user without calculating the proof
+insert 64 user without calculating the proof
+insert 65 user without calculating the proof
+insert 66 user without calculating the proof
+insert 67 user without calculating the proof
+insert 68 user without calculating the proof
+insert 69 user without calculating the proof
+insert 70 user without calculating the proof
+insert 71 user without calculating the proof
+insert 72 user without calculating the proof
+insert 73 user without calculating the proof
+insert 74 user without calculating the proof
+insert 75 user without calculating the proof
+insert 76 user without calculating the proof
+insert 77 user without calculating the proof
+insert 78 user without calculating the proof
+insert 79 user without calculating the proof
+insert 80 user without calculating the proof
+insert 81 user without calculating the proof
+insert 82 user without calculating the proof
+insert 83 user without calculating the proof
+insert 84 user without calculating the proof
+insert 85 user without calculating the proof
+insert 86 user without calculating the proof
+insert 87 user without calculating the proof
+insert 88 user without calculating the proof
+insert 89 user without calculating the proof
+insert 90 user without calculating the proof
+insert 91 user without calculating the proof
+insert 92 user without calculating the proof
+insert 93 user without calculating the proof
+insert 94 user without calculating the proof
+insert 95 user without calculating the proof
+insert 96 user without calculating the proof
+insert 97 user without calculating the proof
+insert 98 user without calculating the proof
+insert 99 user without calculating the proof
+prepare the data [end]
+PT0.000004166S seconds for registering the public parameters
+PT0.006052586S seconds for register one user, [ current registered user numbers: 100 ]
+PT0.000021865S seconds for getting the proof for a random user, [ current registered user numbers: 100 ]
+test tests::functionality ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+
