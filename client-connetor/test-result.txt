@@ -1,0 +1,439 @@
+➜  client-connetor git:(master) ✗ rm -rf node_modules
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.234s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xa552c0c5003f00b1def2b20c28846c6e5c1f1bc0
+
+ PASS  test/service.spec.ts (7.281s)
+  TypeX Test
+    ✓ deployed (2ms)
+    ✓ Test: set the user contract address (217ms)
+    ✓ Test: get the user contract address (111ms)
+    ✓ Test: get the user service/handle (224ms)
+    ✓ Test: insert the public parameters (332ms)
+    ✓ Test: prepare assumption data (120ms)
+    ✓ Test: register the new users (218ms)
+    ✓ Test: get proof for the user (124ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        7.298s, estimated 8s
+Ran all test suites.
+➜  client-connetor git:(master) ✗ 
+
+
+####2
+
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.145s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xbc22cbc21461d46577267acfbcc82f391a405eba
+
+ PASS  test/service.spec.ts (6.767s)
+  TypeX Test
+    ✓ deployed (2ms)
+    ✓ Test: set the user contract address (250ms)
+    ✓ Test: get the user contract address (113ms)
+    ✓ Test: get the user service/handle (199ms)
+    ✓ Test: insert the public parameters (341ms)
+    ✓ Test: prepare assumption data (114ms)
+    ✓ Test: register the new users (218ms)
+    ✓ Test: get proof for the user (109ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.783s, estimated 8s
+Ran all test suites.
+➜  client-connetor git:(master) ✗
+
+#####3
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.21s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0x8cb062c96a1b752564fef693a40b7a3c0ed51541
+
+ PASS  test/service.spec.ts (6.64s)
+  TypeX Test
+    ✓ deployed (1ms)
+    ✓ Test: set the user contract address (238ms)
+    ✓ Test: get the user contract address (139ms)
+    ✓ Test: get the user service/handle (216ms)
+    ✓ Test: insert the public parameters (326ms)
+    ✓ Test: prepare assumption data (116ms)
+    ✓ Test: register the new users (213ms)
+    ✓ Test: get proof for the user (115ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.656s, estimated 7s
+Ran all test suites.
+
+####4
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.299s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xdf8c40e464a9fe8f55a6014d0dc55eeb18c72883
+
+ PASS  test/service.spec.ts (6.518s)
+  TypeX Test
+    ✓ deployed (1ms)
+    ✓ Test: set the user contract address (213ms)
+    ✓ Test: get the user contract address (123ms)
+    ✓ Test: get the user service/handle (230ms)
+    ✓ Test: insert the public parameters (288ms)
+    ✓ Test: prepare assumption data (113ms)
+    ✓ Test: register the new users (231ms)
+    ✓ Test: get proof for the user (141ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.534s, estimated 7s
+Ran all test suites.
+
+####5
+
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.146s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xfc219804f98ae2eacce8e59b3fede70f4bf5f3a1
+
+ PASS  test/service.spec.ts (6.834s)
+  TypeX Test
+    ✓ deployed (2ms)
+    ✓ Test: set the user contract address (238ms)
+    ✓ Test: get the user contract address (108ms)
+    ✓ Test: get the user service/handle (219ms)
+    ✓ Test: insert the public parameters (324ms)
+    ✓ Test: prepare assumption data (110ms)
+    ✓ Test: register the new users (232ms)
+    ✓ Test: get proof for the user (118ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.85s, estimated 7s
+Ran all test suites.
+
+
+####6
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.221s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xdbef5e99be129694a4367d471ba358a138067871
+
+ PASS  test/service.spec.ts (6.863s)
+  TypeX Test
+    ✓ deployed (2ms)
+    ✓ Test: set the user contract address (250ms)
+    ✓ Test: get the user contract address (123ms)
+    ✓ Test: get the user service/handle (211ms)
+    ✓ Test: insert the public parameters (360ms)
+    ✓ Test: prepare assumption data (160ms)
+    ✓ Test: register the new users (226ms)
+    ✓ Test: get proof for the user (118ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.883s, estimated 7s
+Ran all test suites.
+
+####7
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.266s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xb65dc082a4f88256efa1a2a58797409a61bedbcf
+
+ PASS  test/service.spec.ts (6.815s)
+  TypeX Test
+    ✓ deployed (2ms)
+    ✓ Test: set the user contract address (238ms)
+    ✓ Test: get the user contract address (113ms)
+    ✓ Test: get the user service/handle (216ms)
+    ✓ Test: insert the public parameters (329ms)
+    ✓ Test: prepare assumption data (120ms)
+    ✓ Test: register the new users (218ms)
+    ✓ Test: get proof for the user (109ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.833s, estimated 7s
+Ran all test suites.
+
+#####8
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.167s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0x1417f47929ea69f631fb93f62f3ea2fce4e38c63
+
+ PASS  test/service.spec.ts (6.697s)
+  TypeX Test
+    ✓ deployed (2ms)
+    ✓ Test: set the user contract address (238ms)
+    ✓ Test: get the user contract address (109ms)
+    ✓ Test: get the user service/handle (214ms)
+    ✓ Test: insert the public parameters (339ms)
+    ✓ Test: prepare assumption data (122ms)
+    ✓ Test: register the new users (221ms)
+    ✓ Test: get proof for the user (118ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.713s, estimated 7s
+Ran all test suites.
+➜  client-connetor git:(master) ✗ 
+
+####9
+➜  client-connetor git:(master) ✗ rm -rf node_modules
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.362s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xc9436631f061b318802dc359e4b45fb05837f879
+
+ PASS  test/service.spec.ts (6.774s)
+  TypeX Test
+    ✓ deployed (1ms)
+    ✓ Test: set the user contract address (248ms)
+    ✓ Test: get the user contract address (130ms)
+    ✓ Test: get the user service/handle (211ms)
+    ✓ Test: insert the public parameters (361ms)
+    ✓ Test: prepare assumption data (118ms)
+    ✓ Test: register the new users (219ms)
+    ✓ Test: get proof for the user (124ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.79s, estimated 7s
+Ran all test suites.
+➜  client-connetor git:(master) ✗ 
+
+####10
+
+➜  client-connetor git:(master) ✗ oasis test         
+     Testing typex
+npm WARN typex@1.0.0 No description
+npm WARN typex@1.0.0 No repository field.
+npm WARN typex@1.0.0 No license field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+added 556 packages from 467 contributors and audited 876635 packages in 4.16s
+found 0 vulnerabilities
+
+
+> typex@1.0.0 test /home/rujia/Desktop/github/PKG-transparency/client-connetor
+> jest
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    WARNING: Missing strong random number source; using weak randomBytes
+
+  console.log node_modules/@oasislabs/client/dist/index.umd.js:37759
+    Warning: XMLHttpRequest is not defined
+
+  console.log test/service.spec.ts:39
+    0xc1d5d28124f606df3ba3b03a723a7ab6570168e5
+
+ PASS  test/service.spec.ts (6.641s)
+  TypeX Test
+    ✓ deployed (1ms)
+    ✓ Test: set the user contract address (241ms)
+    ✓ Test: get the user contract address (105ms)
+    ✓ Test: get the user service/handle (249ms)
+    ✓ Test: insert the public parameters (335ms)
+    ✓ Test: prepare assumption data (108ms)
+    ✓ Test: register the new users (217ms)
+    ✓ Test: get proof for the user (111ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       8 passed, 8 total
+Snapshots:   0 total
+Time:        6.657s, estimated 7s
+Ran all test suites.
+➜  client-connetor git:(master) ✗ 
+
+
+
