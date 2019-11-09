@@ -1,0 +1,36 @@
+➜  service-router git:(master) ✗ oasis test  -- --nocapture
+    Building router
+    Finished release [optimized] target(s) in 0.02s
+   Preparing router.wasm
+     Testing router
+    Finished release [optimized] target(s) in 0.02s
+     Running target/release/deps/router-bade4dbe9e97be8c
+
+running 1 test
+PT0.000000400S seconds for adding user contract address
+test address is Ok("339f05d5d4b3487f52d3d7988d4d9dbb7d0165")
+PT0.000002584S seconds for obtaining user contract address
+test tests::functionality ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+
+➜  service-router git:(master) ✗ 
+➜  service-router git:(master) ✗ oasis test  -- --nocapture
+    Building router
+    Finished release [optimized] target(s) in 0.02s
+   Preparing router.wasm
+     Testing router
+    Finished release [optimized] target(s) in 0.02s
+     Running target/release/deps/router-bade4dbe9e97be8c
+
+running 1 test
+PT0.000000400S seconds for adding user contract address
+test address is Ok("339f05d5d4b3487f52d3d7988d4d9dbb7d0165")
+PT0.000002584S seconds for obtaining user contract address
+test tests::functionality ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+
+➜  service-router git:(master) ✗ 
+
+
